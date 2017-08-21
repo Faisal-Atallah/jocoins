@@ -1,0 +1,41 @@
+#exchangeContainer{
+
+
+
+
+
+
+}
+
+
+#exchangeForm{
+
+
+
+}
+/* login button */
+
+#exchangeButton{
+
+    position: relative;
+    left: 38%;
+    /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+    -webkit-border-radius: 1px;
+    /* Firefox 1-3.6 */
+    -moz-border-radius: 1px;
+    /* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+    border-radius: 1px;
+    margin-top: 3%;
+    font-size: 15px;
+
+
+    border-color:transparent;
+  color: white;
+    background: #525252;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #3d72b4, #525252);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #3d72b4, #525252); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
